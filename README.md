@@ -8,3 +8,4 @@ Various shell/configuration script for personal use:
 - enable_splitlock.sh (enable splitlock CPU back)
 - offline_genshin.sh (disable network for centain time to launch offline mode)
 - config.fish ([fish](https://fishshell.com/docs/current/index.html "fish") shell configuration) ~/.config/fish/config.fish
+- wakescreen.sh (turn on local monitor over ssh)
