@@ -10,5 +10,4 @@ Various shell/configuration script for personal use:
 - config.fish ([fish](https://fishshell.com/docs/current/index.html "fish") shell configuration) ~/.config/fish/config.fish
 - wakescreen.sh (turn on local monitor over ssh)
 - reboot_ssh.sh (reboot to same grub index over SSH)
-- shutdown_ssh.sh (shutdown immediately with to grub index over SSH)
-
+- shutdown_ssh.sh (shutdown immediately to same grub index over SSH)
