@@ -11,3 +11,5 @@ Various shell/configuration script for personal use:
 - wakescreen.sh (turn on local monitor over ssh)
 - reboot_ssh.sh (reboot to same grub index over SSH)
 - shutdown_ssh.sh (shutdown immediately to same grub index over SSH)
+- startdl.bat (win command to init download certain appid (get from [steamdb](https://steamdb.info "steamdb")))
+- startrm.bat (win command to init removal certain appid (get from [steamdb](https://steamdb.info "steamdb")))
